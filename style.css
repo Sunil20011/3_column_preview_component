@@ -103,7 +103,9 @@ p{
         margin-bottom: 80px ;
      }
 
-
+  .card h1{
+    margin-bottom: 30px;
+ }
     
  }
 
